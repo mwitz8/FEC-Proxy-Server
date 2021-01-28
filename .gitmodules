@@ -1,0 +1,12 @@
+[submodule "GAR-FEC-REVIEWS"]
+	path = GAR-FEC-REVIEWS
+	url = https://github.com/General-Assembly-Rejects/GAR-FEC-REVIEWS.git
+[submodule "GAR-FEC-SimilarProducts"]
+	path = GAR-FEC-SimilarProducts
+	url = https://github.com/General-Assembly-Rejects/GAR-FEC-SimilarProducts.git
+[submodule "GAR-FEC-Q-A"]
+	path = GAR-FEC-Q-A
+	url = https://github.com/General-Assembly-Rejects/GAR-FEC-Q-A.git
+[submodule "GAR-FEC-Product-Overview"]
+	path = GAR-FEC-Product-Overview
+	url = https://github.com/General-Assembly-Rejects/GAR-FEC-Product-Overview.git
